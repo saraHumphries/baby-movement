@@ -1,0 +1,40 @@
+.button-1 {
+  border-radius: 8px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 500;
+  outline: none;
+  
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  margin: 1em;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.button-1:hover {
+  background-color: lavender;
+  color: black;
+}
+
+.button-small {
+    background-color: pink;
+    font-size: 1em;
+    padding: 0.25em 0.5em;
+}
+
+.button-medium {
+    background-color: hotpink;
+    font-size: 2em;
+    padding: 0.5em 1em;
+}
+
+.button-large {
+    background-color: magenta;
+    font-size: 3em;
+    padding: 0.75em 1.5em;
+}
+
